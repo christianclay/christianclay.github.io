@@ -1,0 +1,229 @@
+body {
+	font-family: "Bebas Kai";
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.pace-done {
+	margin: 0;
+}
+
+#landing {
+	background-image: url("http://p1.pichost.me/i/5/1282860.jpg");
+	background-size: cover;
+	height: 600px;
+	width: 100%;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+#landing h1 {
+	font-size: 5em;
+	padding-top: 265px;
+	letter-spacing: 1.2px;
+	margin-top: 0px;
+}
+
+#landing a {
+	text-decoration: none;
+	color: white;
+	border: 2px solid #ffffff;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	font-size: .75em;
+}
+
+#landing a:hover {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+#homepagelogo {
+	float: left;
+	margin-top: 35px;
+	margin-left: 35px;
+}
+
+#homepageheader {
+	margin-top: 35px;
+	margin-left: 25px;
+	float: left;
+}
+
+#homepageheader a {
+	text-decoration: none;
+	color: #000000;
+	font-size: 1.3em;
+	text-align: left;
+}
+
+#homepageheader a:hover {
+	color: #B3F7FF;
+}
+
+#homepagenav{
+	margin-top: 35px;
+	margin-right: 25px;
+	float: right;
+}
+
+#homepagenav a {
+	margin-right: 30px;
+	text-decoration: none;
+	color: #000000;
+	font-size: 1.3em;
+}
+
+#homepagenav a:hover {
+	color: #B3F7FF;
+}
+
+#header {
+	background-color: #ffffff;
+	position: fixed;
+	width: 100%;
+	z-index: 900;
+	height: 90px;
+}
+
+#header img {
+	margin-top: 25px;
+	margin-left:30px;
+}
+
+#header a {
+	letter-spacing: .3px;
+	font-size: 1.3em;
+}
+
+#header a:hover {
+	color: #B3F7FF;
+}
+
+#nav {
+	position: fixed;
+	top: 30px;
+	right: 50px;
+	text-align: right;
+	z-index: 1000;
+	padding-bottom: 15px;
+}
+
+#nav a {
+	text-decoration: none;
+	padding-right: 15px;
+	color: #000000;
+}
+
+#nav a:hover {
+	color: #B3F7FF;
+}
+
+#portsec {
+	height: 640px; 
+	background-color: white;
+	padding-top: 10px;
+}
+
+#portpieces {
+	margin-top: 125px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+#portpieces img {
+	width: 32.5%;
+	border: solid 1px #ffffff;
+	float: middle;
+}
+
+
+.objectivebar {
+	padding-top: 45px;
+	padding-bottom: 45px;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+.Section1 {
+	padding-left: 150px;
+	padding-right: 150px;
+	margin-bottom: 100px;
+}
+
+.Section1img {
+	height: 150px;
+	float: right;
+	padding-right: 200px;
+}
+
+.opportunity {
+	padding-top: 150px;
+	padding-bottom: 150px;
+	text-align: left;
+}
+
+.opportunity p {
+	font-family: "San Francisco";
+	line-height: 20px;
+}
+
+.thinking {
+	padding-left: 150px;
+	padding-right: 50px;
+	text-align: right;
+}
+
+.thinking  p {
+	font-family: "San Francisco";
+	line-height: 20px;
+}
+
+.Subheaders h3 {
+	text-align: left;
+	padding-top: 50px;
+}
+
+#aboutmeblurb img {
+	margin-top: 150px;
+	margin-left: 150px;
+	float: left;
+}
+
+#aboutmeblurb h3 {
+	margin-left: 100px;
+	margin-top: 0px;
+	padding-top: 150px;
+	font-size: 1.5em;
+}
+#aboutmeblurb p {
+	margin-top: 0px;
+	padding-top: 25px;
+	line-height: 1.5em;
+	font-family: helvetica;
+	text-align: left;
+}
+
+.parallax-window {
+	min-height: 600px;
+	background: transparent;
+}
+
+.infofooter {
+	margin-top: 250px;
+	text-align: center;
+	background-color: #f1f1f1;
+	padding-left: 30%;
+	padding-right: 30%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+
